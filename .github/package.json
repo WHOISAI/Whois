@@ -1,0 +1,22 @@
+{
+  "name": "readme",
+  "version": "3.0",
+  "description": "A block chain app",
+  "main": "main.js",
+  "scripts": {
+    "start": "whoisai ."
+  },
+  "repository": "https://github.com/whoisain/whois",
+  "keywords": [
+    "Whois",
+    "Whoisai",
+    "Index",
+    "Token economy",
+    "demo"
+  ],
+  "author": "ENNEAM",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "Whoisai": "^3.0"
+  }
+}

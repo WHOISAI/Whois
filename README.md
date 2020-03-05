@@ -10,7 +10,7 @@
 
 ## Whoisai for its blockchain
 
-
+With the support of Atari 2600 (Stella) support for multiple assemblers.
 
 
 # Whoisai
